@@ -1,10 +1,9 @@
 import { chromium } from "playwright";
 import { Config } from "../config";
 import { fullScroll } from "./fullScroll";
-import { writeFile } from "fs/promises";
-import path from 'path';
+import type { IVideoInformation } from "../@types";
 
-export async function getAllVideoTitleAndURLs(channelID: string): Promise<any> {
+export async function getAllVideoTitleAndURLs(channelID: string): Promise<IVideoInformation[]> {
   let results = [];
 
   const url = `https://www.youtube.com/@${channelID}/videos`;
@@ -32,16 +31,16 @@ export async function getAllVideoTitleAndURLs(channelID: string): Promise<any> {
   let urls = await page.$$eval(videoURLSelector, (els) => els.map((el) => el.getAttribute('href')));
 
   for(let i = 0; i < urls.length; i++) {
-    const data = {
+    const data: IVideoInformation = {
       id: i + 1,
-      title: titles[i],
-      url: `https://www.youtube.com${urls[i]}`
+      title: titles[i] || '',
+      url: `https://www.youtube.com${urls[i]}` || ''
     }
     results.push(data);
   }
 
   await browser.close();
 
-  writeFile(path.join(__dirname, '..', 'examples', 'out', 'titleAndurls', `${channelID}.json`), JSON.stringify(results, null, 2));
   console.log(`Channel ID: ${channelID} -> ${results.length} Videos`);
+  return results;
 }
