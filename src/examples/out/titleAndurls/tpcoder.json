@@ -1,0 +1,1242 @@
+[
+  {
+    "id": 1,
+    "title": "BE Course - Login system with JWT RS256 [Last Part] (17)",
+    "url": "https://www.youtube.com/watch?v=6O5b7jVURpw"
+  },
+  {
+    "id": 2,
+    "title": "BE Course - Express.js แบบ Container ด้วย Docker Compose [Deployment 101] (16)",
+    "url": "https://www.youtube.com/watch?v=behx4ve3pvs"
+  },
+  {
+    "id": 3,
+    "title": "BE Course - Express.js บน pm2 [Deployment 101] (15)",
+    "url": "https://www.youtube.com/watch?v=29WLUyh16l4"
+  },
+  {
+    "id": 4,
+    "title": "BE Course - Test HTTP Endpoints with Supertest (14)",
+    "url": "https://www.youtube.com/watch?v=JZERmOckMTo"
+  },
+  {
+    "id": 5,
+    "title": "BE Course - Backend Unit Testing with Jest (13)",
+    "url": "https://www.youtube.com/watch?v=ILkwWFP9ABQ"
+  },
+  {
+    "id": 6,
+    "title": "BE Course - เริ่ม Write log file บน Express.js (12)",
+    "url": "https://www.youtube.com/watch?v=m8y0wvnkwvo"
+  },
+  {
+    "id": 7,
+    "title": "BE Course - Express.js + MongoDB, เชื่อม Frontend และปรับโค้ดให้ standard (11)",
+    "url": "https://www.youtube.com/watch?v=vbfpDSltBAg"
+  },
+  {
+    "id": 8,
+    "title": "BE Course - RESTful APIs พื้นฐานด้วย Express.js แต่ยังไม่ต่อ DB (10)",
+    "url": "https://www.youtube.com/watch?v=jMIDT0ol3aY"
+  },
+  {
+    "id": 9,
+    "title": "BE Course - Backend เบื้องต้น และ Libraries ที่ใช้บน Node.js (9)",
+    "url": "https://www.youtube.com/watch?v=ejS_2SKdVOw"
+  },
+  {
+    "id": 10,
+    "title": "BE Course - MongoDB 101 (8)",
+    "url": "https://www.youtube.com/watch?v=eerjwqGamTc"
+  },
+  {
+    "id": 11,
+    "title": "JS Course - Unit testing with Jest (7)",
+    "url": "https://www.youtube.com/watch?v=hUAfjOU4HpE"
+  },
+  {
+    "id": 12,
+    "title": "JS Course - NPM Project 101 (6)",
+    "url": "https://www.youtube.com/watch?v=XKneVjAZBzU"
+  },
+  {
+    "id": 13,
+    "title": "JS Course - Callback/Promise/Async & Await (5)",
+    "url": "https://www.youtube.com/watch?v=kKjAkN_1yCA"
+  },
+  {
+    "id": 14,
+    "title": "JS Course - Function, Import/Export, Catch Error (4)",
+    "url": "https://www.youtube.com/watch?v=3PMGI63-Dno"
+  },
+  {
+    "id": 15,
+    "title": "JS Course - Array, String, Object, Map, Set (3)",
+    "url": "https://www.youtube.com/watch?v=2vDkNwKgZcc"
+  },
+  {
+    "id": 16,
+    "title": "JS Course - Programming Paradigm (Decision, Iteration) (2)",
+    "url": "https://www.youtube.com/watch?v=WEPm5vJc0BQ"
+  },
+  {
+    "id": 17,
+    "title": "JS Course - Intro, Variable, Operator (1)",
+    "url": "https://www.youtube.com/watch?v=Hexce26CrvM"
+  },
+  {
+    "id": 18,
+    "title": "LC in JS: 1584. Min Cost to Connect All Points [Prim] [Minimum Spanning Tree]",
+    "url": "https://www.youtube.com/watch?v=D8lofYs3pIE"
+  },
+  {
+    "id": 19,
+    "title": "LC in JS: 1584. Min Cost to Connect All Points [Kruskal] [Minimum Spanning Tree]",
+    "url": "https://www.youtube.com/watch?v=MY-TEwOraw8"
+  },
+  {
+    "id": 20,
+    "title": "Overview - MST - Kruskal's algorithm [TH]",
+    "url": "https://www.youtube.com/watch?v=dzWuJaGRx5U"
+  },
+  {
+    "id": 21,
+    "title": "Overview - MST - Prim's algorithm [TH]",
+    "url": "https://www.youtube.com/watch?v=JKiEkfPXhW8"
+  },
+  {
+    "id": 22,
+    "title": "Overview - Minimum Spanning Tree (MST) algorithms [TH]",
+    "url": "https://www.youtube.com/watch?v=8uXEEPGwJA4"
+  },
+  {
+    "id": 23,
+    "title": "LC in JS: 210. Course Schedule II [Topological Sort]",
+    "url": "https://www.youtube.com/watch?v=GUbdyjWY6Og"
+  },
+  {
+    "id": 24,
+    "title": "LC in JS: 207. Course Schedule [Topological Sort]",
+    "url": "https://www.youtube.com/watch?v=_wGZ5q321SE"
+  },
+  {
+    "id": 25,
+    "title": "Overview - Topological Sort [TH]",
+    "url": "https://www.youtube.com/watch?v=_spcOKUDweQ"
+  },
+  {
+    "id": 26,
+    "title": "LC in JS: 1319. Number of Operations to Make Network Connected [Union-Find]",
+    "url": "https://www.youtube.com/watch?v=LI1dNcW3E4c"
+  },
+  {
+    "id": 27,
+    "title": "LC in JS: 547. Number of Provinces [Union-Find]",
+    "url": "https://www.youtube.com/watch?v=DkFRrdpNcL0"
+  },
+  {
+    "id": 28,
+    "title": "LC in JS: 1971. Find if Path Exists in Graph [Union-Find]",
+    "url": "https://www.youtube.com/watch?v=c5QA5qZRwNU"
+  },
+  {
+    "id": 29,
+    "title": "Architecture for Developer - Session Talks",
+    "url": "https://www.youtube.com/watch?v=2l5twr4b69U"
+  },
+  {
+    "id": 30,
+    "title": "Code Example - Union Find with HashTable",
+    "url": "https://www.youtube.com/watch?v=jDEAy2g9OCw"
+  },
+  {
+    "id": 31,
+    "title": "Code Example - Union Find with Array",
+    "url": "https://www.youtube.com/watch?v=vzzSsDXHNZo"
+  },
+  {
+    "id": 32,
+    "title": "Disjoint Set - Rank Heuristic [TH]",
+    "url": "https://www.youtube.com/watch?v=yTC6eXY8nhY"
+  },
+  {
+    "id": 33,
+    "title": "Disjoint Set - Path Compression [TH]",
+    "url": "https://www.youtube.com/watch?v=19hQCi8ypUw"
+  },
+  {
+    "id": 34,
+    "title": "Disjoint Set - Union-Find Operation Example [TH]",
+    "url": "https://www.youtube.com/watch?v=tnJ5DPs1ZKw"
+  },
+  {
+    "id": 35,
+    "title": "Overview - Disjoint Set (Union-Find) [TH]",
+    "url": "https://www.youtube.com/watch?v=_6RsdRmrcpA"
+  },
+  {
+    "id": 36,
+    "title": "LC in JS: 127. Word Ladder [Graph]",
+    "url": "https://www.youtube.com/watch?v=O3S7gZLfYY8"
+  },
+  {
+    "id": 37,
+    "title": "LC in JS: 542. 01 Matrix [Graph]",
+    "url": "https://www.youtube.com/watch?v=MOrmy2aD7Lg"
+  },
+  {
+    "id": 38,
+    "title": "LC in JS: 695. Max Area of Island [Graph]",
+    "url": "https://www.youtube.com/watch?v=uLs25bEwuRQ"
+  },
+  {
+    "id": 39,
+    "title": "LC in JS: 130. Surrounded Regions [Graph]",
+    "url": "https://www.youtube.com/watch?v=WXj9hDQTw2E"
+  },
+  {
+    "id": 40,
+    "title": "LC in JS: 200. Number of Islands [Graph]",
+    "url": "https://www.youtube.com/watch?v=DiUh8Gfo0SY"
+  },
+  {
+    "id": 41,
+    "title": "LC in JS: 212. Word Search II [Graph + Trie]",
+    "url": "https://www.youtube.com/watch?v=mboeB2Z78RI"
+  },
+  {
+    "id": 42,
+    "title": "LC in JS: 79. Word Search [Graph]",
+    "url": "https://www.youtube.com/watch?v=vQHeP5nbTRM"
+  },
+  {
+    "id": 43,
+    "title": "LC in JS: 841. Keys and Rooms [Graph]",
+    "url": "https://www.youtube.com/watch?v=jPpuFm25v6I"
+  },
+  {
+    "id": 44,
+    "title": "LC in JS: 797. All Paths From Source to Target [Graph]",
+    "url": "https://www.youtube.com/watch?v=zhJb81_n73o"
+  },
+  {
+    "id": 45,
+    "title": "Overview - Directed Acyclic Graph (DAG) [TH]",
+    "url": "https://www.youtube.com/watch?v=cUEzlCe1W8A"
+  },
+  {
+    "id": 46,
+    "title": "LC in JS: 1971. Find if Path Exists in Graph - BFS [Graph]",
+    "url": "https://www.youtube.com/watch?v=yxzlHfxAt84"
+  },
+  {
+    "id": 47,
+    "title": "LC in JS: 1971. Find if Path Exists in Graph - DFS [Graph]",
+    "url": "https://www.youtube.com/watch?v=HfygmcUSj5M"
+  },
+  {
+    "id": 48,
+    "title": "LC in JS: 133. Clone Graph [Graph]",
+    "url": "https://www.youtube.com/watch?v=8OUhN54xUFc"
+  },
+  {
+    "id": 49,
+    "title": "Overview - BFS on Graph [TH]",
+    "url": "https://www.youtube.com/watch?v=z_Zx2Wm6VWg"
+  },
+  {
+    "id": 50,
+    "title": "Overview - DFS on Graph [TH]",
+    "url": "https://www.youtube.com/watch?v=PBeCToohmxc"
+  },
+  {
+    "id": 51,
+    "title": "Overview - Introduction of Graphs [TH]",
+    "url": "https://www.youtube.com/watch?v=yp9G2YygBAU"
+  },
+  {
+    "id": 52,
+    "title": "LC in JS: 295. Find Median from Data Stream [2 Heaps]",
+    "url": "https://www.youtube.com/watch?v=Sg5-oOw3vEQ"
+  },
+  {
+    "id": 53,
+    "title": "LC in JS: 378. Kth Smallest Element in a Sorted Matrix [K-way Merge]",
+    "url": "https://www.youtube.com/watch?v=hiq81RPKwfk"
+  },
+  {
+    "id": 54,
+    "title": "LC in JS: 373. Find K Pairs with Smallest Sums [K-way Merge]",
+    "url": "https://www.youtube.com/watch?v=TZI60dlGfNo"
+  },
+  {
+    "id": 55,
+    "title": "LC in JS: 23. Merge k Sorted Lists [K-way Merge]",
+    "url": "https://www.youtube.com/watch?v=z3owbWy1yyo"
+  },
+  {
+    "id": 56,
+    "title": "LC in JS: 21. Merge Two Sorted Lists [K-way Merge]",
+    "url": "https://www.youtube.com/watch?v=n3w2XI8tzis"
+  },
+  {
+    "id": 57,
+    "title": "LC in JS: 767. Reorganize String [Top K Elements]",
+    "url": "https://www.youtube.com/watch?v=ltGNP9kq1XA"
+  },
+  {
+    "id": 58,
+    "title": "LC in JS: 658. Find K Closest Elements [Top K Elements]",
+    "url": "https://www.youtube.com/watch?v=dKPUXe8Dmjs"
+  },
+  {
+    "id": 59,
+    "title": "LC in JS: 451. Sort Characters By Frequency [Top K Elements]",
+    "url": "https://www.youtube.com/watch?v=DEI4Gnrcc1g"
+  },
+  {
+    "id": 60,
+    "title": "LC in JS: 347. Top K Frequent Elements [Top K Elements]",
+    "url": "https://www.youtube.com/watch?v=LmT6Shp1r18"
+  },
+  {
+    "id": 61,
+    "title": "LC in JS: 973. K Closest Points to Origin [Top K Elements]",
+    "url": "https://www.youtube.com/watch?v=9vH89DCACoE"
+  },
+  {
+    "id": 62,
+    "title": "LC in JS: 230. Kth Smallest Element in a BST [Top K Elements]",
+    "url": "https://www.youtube.com/watch?v=9aZrbSi7CEA"
+  },
+  {
+    "id": 63,
+    "title": "LC in JS: 215. Kth Largest Element in an Array [Top K Elements]",
+    "url": "https://www.youtube.com/watch?v=J24HrmXyNds"
+  },
+  {
+    "id": 64,
+    "title": "LC in JS: 1268. Search Suggestions System [Trie]",
+    "url": "https://www.youtube.com/watch?v=pwHTtWQyASI"
+  },
+  {
+    "id": 65,
+    "title": "LC in JS: 211. Design Add and Search Words Data Structure [Trie]",
+    "url": "https://www.youtube.com/watch?v=hiANPFZQrFU"
+  },
+  {
+    "id": 66,
+    "title": "LC in JS: 648. Replace Words [Trie]",
+    "url": "https://www.youtube.com/watch?v=4BM05PvCA7Y"
+  },
+  {
+    "id": 67,
+    "title": "LC in JS: 208. Implement Trie (Prefix Tree) [Trie]",
+    "url": "https://www.youtube.com/watch?v=QezH-9Y5x08"
+  },
+  {
+    "id": 68,
+    "title": "Overview - Trie Data Structure [TH]",
+    "url": "https://www.youtube.com/watch?v=i2ta0VNfcVk"
+  },
+  {
+    "id": 69,
+    "title": "LC in JS: 199. Binary Tree Right Side View [Tree - BFS]",
+    "url": "https://www.youtube.com/watch?v=tvFYZVb_Hbg"
+  },
+  {
+    "id": 70,
+    "title": "LC in JS: 103. Binary Tree Zigzag Level Order Traversal [Tree - BFS]",
+    "url": "https://www.youtube.com/watch?v=cVBIOq27rZI"
+  },
+  {
+    "id": 71,
+    "title": "LC in JS: 102. Binary Tree Level Order Traversal [Tree - BFS]",
+    "url": "https://www.youtube.com/watch?v=e0VrnqLkGZo"
+  },
+  {
+    "id": 72,
+    "title": "LC in JS: 637. Average of Levels in Binary Tree [Tree - BFS]",
+    "url": "https://www.youtube.com/watch?v=y6-yzc_XlDU"
+  },
+  {
+    "id": 73,
+    "title": "LC in JS: 111. Minimum Depth of Binary Tree [Tree - BFS]",
+    "url": "https://www.youtube.com/watch?v=xAcvMBMLdRU"
+  },
+  {
+    "id": 74,
+    "title": "LC in JS: 124. Binary Tree Maximum Path Sum [Tree - DFS]",
+    "url": "https://www.youtube.com/watch?v=oYk2KvlYbzU"
+  },
+  {
+    "id": 75,
+    "title": "LC in JS: 113. Path Sum II [Tree - DFS]",
+    "url": "https://www.youtube.com/watch?v=EQo90GopPd4"
+  },
+  {
+    "id": 76,
+    "title": "LC in JS: 129. Sum Root to Leaf Numbers [Tree - DFS]",
+    "url": "https://www.youtube.com/watch?v=ozCfnCyxcIg"
+  },
+  {
+    "id": 77,
+    "title": "LC in JS: 98. Validate Binary Search Tree [Tree - DFS]",
+    "url": "https://www.youtube.com/watch?v=MHsfkWfI93Q"
+  },
+  {
+    "id": 78,
+    "title": "LC in JS: 617. Merge Two Binary Trees [Tree - DFS]",
+    "url": "https://www.youtube.com/watch?v=Icp97dPBP4U"
+  },
+  {
+    "id": 79,
+    "title": "LC in JS: 112. Path Sum [Tree - DFS]",
+    "url": "https://www.youtube.com/watch?v=GxkABozyfCs"
+  },
+  {
+    "id": 80,
+    "title": "LC in JS: 104. Maximum Depth of Binary Tree [Tree - DFS]",
+    "url": "https://www.youtube.com/watch?v=zbVNmuYT5YA"
+  },
+  {
+    "id": 81,
+    "title": "Overview - Heap Tree [TH]",
+    "url": "https://www.youtube.com/watch?v=Msn_p6IeJF8"
+  },
+  {
+    "id": 82,
+    "title": "Overview - Tree Traversal DFS & BFS [TH]",
+    "url": "https://www.youtube.com/watch?v=ZGNs-j73sho"
+  },
+  {
+    "id": 83,
+    "title": "Overview - Finding Data in BST [TH]",
+    "url": "https://www.youtube.com/watch?v=B_3wEP1SUhg"
+  },
+  {
+    "id": 84,
+    "title": "Overview - Binary Search Tree [TH]",
+    "url": "https://www.youtube.com/watch?v=QChPmuIT9rU"
+  },
+  {
+    "id": 85,
+    "title": "Overview - Binary Tree [TH]",
+    "url": "https://www.youtube.com/watch?v=pwGS9Cjx7DE"
+  },
+  {
+    "id": 86,
+    "title": "Overview - Tree [TH]",
+    "url": "https://www.youtube.com/watch?v=ceIFIjtgAxw"
+  },
+  {
+    "id": 87,
+    "title": "LC in JS: 41. First Missing Positive [Cyclic Sort]",
+    "url": "https://www.youtube.com/watch?v=6aODkLvfsgE"
+  },
+  {
+    "id": 88,
+    "title": "LC in JS: 448. Find All Numbers Disappeared in an Array [Cyclic Sort]",
+    "url": "https://www.youtube.com/watch?v=w5mCg6sDUbE"
+  },
+  {
+    "id": 89,
+    "title": "LC in JS: 268. Missing Number [Cyclic Sort]",
+    "url": "https://www.youtube.com/watch?v=I5IeLiVsCJA"
+  },
+  {
+    "id": 90,
+    "title": "Overview - Cyclic Sort Pattern",
+    "url": "https://www.youtube.com/watch?v=IWZhdcGAXRA"
+  },
+  {
+    "id": 91,
+    "title": "LC in JS: 435. Non-overlapping Intervals [Merge Interval]",
+    "url": "https://www.youtube.com/watch?v=8xW9AyMQVTw"
+  },
+  {
+    "id": 92,
+    "title": "LC in JS: 57. Insert Interval [Merge Interval]",
+    "url": "https://www.youtube.com/watch?v=9ex0txM6BkQ"
+  },
+  {
+    "id": 93,
+    "title": "LC in JS: 56. Merge Intervals [Merge Interval]",
+    "url": "https://www.youtube.com/watch?v=3RLvPr3jf6o"
+  },
+  {
+    "id": 94,
+    "title": "Overview - Merge Intervals Pattern",
+    "url": "https://www.youtube.com/watch?v=UtiKaP73NfU"
+  },
+  {
+    "id": 95,
+    "title": "LC in JS: 39. Combination Sum [Backtracking]",
+    "url": "https://www.youtube.com/watch?v=A_CyMs1QNuo"
+  },
+  {
+    "id": 96,
+    "title": "LC in JS: 78. Subsets [Backtracking]",
+    "url": "https://www.youtube.com/watch?v=DY593ERibZg"
+  },
+  {
+    "id": 97,
+    "title": "LC in JS: 17. Letter Combinations of a Phone Number [Backtracking]",
+    "url": "https://www.youtube.com/watch?v=YqReojvGp8E"
+  },
+  {
+    "id": 98,
+    "title": "LC in JS: 22. Generate Parentheses [Backtracking]",
+    "url": "https://www.youtube.com/watch?v=zltAsuB_n48"
+  },
+  {
+    "id": 99,
+    "title": "LC in JS: 46. Permutations [Backtracking]",
+    "url": "https://www.youtube.com/watch?v=WDqFMfbJ6-4"
+  },
+  {
+    "id": 100,
+    "title": "LC in JS: 901. Online Stock Span [Monotonic Stack]",
+    "url": "https://www.youtube.com/watch?v=dTG3s_b4ipA"
+  },
+  {
+    "id": 101,
+    "title": "LC in JS: 739. Daily Temperatures [Monotonic Stack]",
+    "url": "https://www.youtube.com/watch?v=JkvNg2KtKXY"
+  },
+  {
+    "id": 102,
+    "title": "LC in JS: 503. Next Greater Element II [Monotonic Stack]",
+    "url": "https://www.youtube.com/watch?v=2n8EbhTmRRs"
+  },
+  {
+    "id": 103,
+    "title": "LC in JS: 496. Next Greater Element I [Monotonic Stack]",
+    "url": "https://www.youtube.com/watch?v=EHVw6N7uv7w"
+  },
+  {
+    "id": 104,
+    "title": "LC in JS: 1823. Find the Winner of the Circular Game [Stack & Queue]",
+    "url": "https://www.youtube.com/watch?v=OyFuLOKxdSE"
+  },
+  {
+    "id": 105,
+    "title": "LC in JS: 150. Evaluate Reverse Polish Notation [Stack & Queue]",
+    "url": "https://www.youtube.com/watch?v=U9JN9dIR4kQ"
+  },
+  {
+    "id": 106,
+    "title": "LC in JS: 20. Valid Parentheses [Stack & Queue]",
+    "url": "https://www.youtube.com/watch?v=NQ29S0kKqZg"
+  },
+  {
+    "id": 107,
+    "title": "Introduction of Stack & Queue [TH]",
+    "url": "https://www.youtube.com/watch?v=x4EYrTS4URg"
+  },
+  {
+    "id": 108,
+    "title": "LC in JS: 74. Search a 2D Matrix [Modified Binary Search]",
+    "url": "https://www.youtube.com/watch?v=EKgJfVcRd8Q"
+  },
+  {
+    "id": 109,
+    "title": "LC in JS: 278. First Bad Version [Modified Binary Search]",
+    "url": "https://www.youtube.com/watch?v=RLgngmfvzso"
+  },
+  {
+    "id": 110,
+    "title": "LC in JS: 34. Find First and Last Position of Element in Sorted Array [Modified Binary Search]",
+    "url": "https://www.youtube.com/watch?v=bRku5Tj-hBA"
+  },
+  {
+    "id": 111,
+    "title": "Introduction of Searching [Linear Search & Binary Search] [TH]",
+    "url": "https://www.youtube.com/watch?v=stPWlGNgEhI"
+  },
+  {
+    "id": 112,
+    "title": "LC in JS: 142. Linked List Cycle II [Fast & Slow Pointers]",
+    "url": "https://www.youtube.com/watch?v=o-u0DSn_Q9M"
+  },
+  {
+    "id": 113,
+    "title": "LC in JS: 876. Middle of the Linked List [Fast & Slow Pointers]",
+    "url": "https://www.youtube.com/watch?v=cowPBHqCGWQ"
+  },
+  {
+    "id": 114,
+    "title": "LC in JS: 141. Linked List Cycle [Fast & Slow Pointers]",
+    "url": "https://www.youtube.com/watch?v=UABdj5AxtxQ"
+  },
+  {
+    "id": 115,
+    "title": "LC in JS: 287. Find the Duplicate Number [Fast & Slow Pointers]",
+    "url": "https://www.youtube.com/watch?v=4NFwTp5NaQ0"
+  },
+  {
+    "id": 116,
+    "title": "LC in JS: 146. LRU Cache",
+    "url": "https://www.youtube.com/watch?v=uSZnPnBrPb4"
+  },
+  {
+    "id": 117,
+    "title": "LC in JS: 19. Remove Nth Node From End of List [LinkedList Pattern]",
+    "url": "https://www.youtube.com/watch?v=kx_otov3PQs"
+  },
+  {
+    "id": 118,
+    "title": "LC in JS: 328. Odd Even Linked List [LinkedList Pattern]",
+    "url": "https://www.youtube.com/watch?v=OVCdfIu9vqQ"
+  },
+  {
+    "id": 119,
+    "title": "LC in JS: 2. Add Two Numbers [LinkedList Pattern]",
+    "url": "https://www.youtube.com/watch?v=93BKEwnS8WI"
+  },
+  {
+    "id": 120,
+    "title": "LC in JS: 83. Remove Duplicates from Sorted List [LinkedList Pattern]",
+    "url": "https://www.youtube.com/watch?v=4K15OdBMj9w"
+  },
+  {
+    "id": 121,
+    "title": "LC in JS: 203. Remove Linked List Elements [LinkedList Pattern]",
+    "url": "https://www.youtube.com/watch?v=00_qnwKabjM"
+  },
+  {
+    "id": 122,
+    "title": "LC in JS: 49. Group Anagrams [String Pattern]",
+    "url": "https://www.youtube.com/watch?v=SpDYU_Nl2m4"
+  },
+  {
+    "id": 123,
+    "title": "LC in JS: 557. Reverse Words in a String III [String Pattern]",
+    "url": "https://www.youtube.com/watch?v=dnu6XfxkEZ0"
+  },
+  {
+    "id": 124,
+    "title": "LC in JS: 345. Reverse Vowels of a String [String Pattern]",
+    "url": "https://www.youtube.com/watch?v=Y7aOmUVfgEM"
+  },
+  {
+    "id": 125,
+    "title": "LC in JS: 242. Valid Anagram [String Pattern]",
+    "url": "https://www.youtube.com/watch?v=Aqb2eZMdDTg"
+  },
+  {
+    "id": 126,
+    "title": "LC in JS: 125. Valid Palindrome [String Pattern]",
+    "url": "https://www.youtube.com/watch?v=McCbIXKUwpo"
+  },
+  {
+    "id": 127,
+    "title": "LC in JS: 209. Minimum Size Subarray Sum [Sliding Windows Pattern]",
+    "url": "https://www.youtube.com/watch?v=_DNCeDi-iw0"
+  },
+  {
+    "id": 128,
+    "title": "LC in JS: 904. Fruit Into Baskets [Sliding Windows Pattern]",
+    "url": "https://www.youtube.com/watch?v=vDsM-7c3eYo"
+  },
+  {
+    "id": 129,
+    "title": "LC in JS: 3. Longest Substring Without Repeating Characters  [Sliding Windows Pattern]",
+    "url": "https://www.youtube.com/watch?v=bjBN5byTNGw"
+  },
+  {
+    "id": 130,
+    "title": "LC in JS: 11. Container With Most Water  [Two Pointers Pattern]",
+    "url": "https://www.youtube.com/watch?v=vnK9haObGKA"
+  },
+  {
+    "id": 131,
+    "title": "LC in JS: 977. Squares of a Sorted Array  [Two Pointers Pattern]",
+    "url": "https://www.youtube.com/watch?v=3Ycf9KejKaQ"
+  },
+  {
+    "id": 132,
+    "title": "LC in JS: 167. Two Sum II - Input Array Is Sorted [Two Pointers Pattern]",
+    "url": "https://www.youtube.com/watch?v=r2d_Z9fQbmg"
+  },
+  {
+    "id": 133,
+    "title": "LC in JS: 283. Move Zeroes [Two Pointers Pattern]",
+    "url": "https://www.youtube.com/watch?v=YM6S423iEpo"
+  },
+  {
+    "id": 134,
+    "title": "LC in JS: 128. Longest Consecutive Sequence",
+    "url": "https://www.youtube.com/watch?v=JFVuwlFTioU"
+  },
+  {
+    "id": 135,
+    "title": "LC in JS: 217. Contains Duplicate",
+    "url": "https://www.youtube.com/watch?v=CF6VenxBogE"
+  },
+  {
+    "id": 136,
+    "title": "LC in JS: 53. Maximum Subarray",
+    "url": "https://www.youtube.com/watch?v=ZFrHpACD7Pc"
+  },
+  {
+    "id": 137,
+    "title": "LC in JS: 1. Two Sum",
+    "url": "https://www.youtube.com/watch?v=pzRrWF7ko_I"
+  },
+  {
+    "id": 138,
+    "title": "LC in JS: 121. Best Time to Buy and Sell Stock",
+    "url": "https://www.youtube.com/watch?v=IFL6JRYgHSg"
+  },
+  {
+    "id": 139,
+    "title": "[VLOG] Fly to work abroad as an ordinary software engineer",
+    "url": "https://www.youtube.com/watch?v=WHuzl3DvNeQ"
+  },
+  {
+    "id": 140,
+    "title": "Walkthrough Demo - EmpFriendly [Redis Hackathon on DEV 2022]",
+    "url": "https://www.youtube.com/watch?v=B-5_xpC3D8A"
+  },
+  {
+    "id": 141,
+    "title": "Overview project - EmpFriendly [Redis Hackathon on DEV 2022]",
+    "url": "https://www.youtube.com/watch?v=ML5Vc8LkZwg"
+  },
+  {
+    "id": 142,
+    "title": "ทำโจทย์ Leetcode: Group Anagrams",
+    "url": "https://www.youtube.com/watch?v=ZGgIDHrKlhc"
+  },
+  {
+    "id": 143,
+    "title": "ทำโจทย์ Leetcode: Binary Tree Postorder Traversal",
+    "url": "https://www.youtube.com/watch?v=Gso-6La2RVI"
+  },
+  {
+    "id": 144,
+    "title": "ทำโจทย์ Leetcode: Binary Tree Inorder Traversal",
+    "url": "https://www.youtube.com/watch?v=ihcntALQs20"
+  },
+  {
+    "id": 145,
+    "title": "ทำโจทย์ Leetcode: Binary Tree Preorder Traversal",
+    "url": "https://www.youtube.com/watch?v=6MpxBBjubsg"
+  },
+  {
+    "id": 146,
+    "title": "ทำโจทย์ Leetcode: Design HashMap",
+    "url": "https://www.youtube.com/watch?v=BqWtUdyyC8o"
+  },
+  {
+    "id": 147,
+    "title": "ทำโจทย์ Leetcode: Average of Levels in Binary Tree",
+    "url": "https://www.youtube.com/watch?v=MIWViKsuSm4"
+  },
+  {
+    "id": 148,
+    "title": "ทำโจทย์ Leetcode: Intersection of Two Linked Lists",
+    "url": "https://www.youtube.com/watch?v=Etx2GFgO41s"
+  },
+  {
+    "id": 149,
+    "title": "ทำโจทย์ Leetcode: Missing Number",
+    "url": "https://www.youtube.com/watch?v=vciYHOzJfvQ"
+  },
+  {
+    "id": 150,
+    "title": "ทำโจทย์ Leetcode: Set Mismatch",
+    "url": "https://www.youtube.com/watch?v=qwKBN9a4DyY"
+  },
+  {
+    "id": 151,
+    "title": "ทำโจทย์ Leetcode: Single-Row Keyboard",
+    "url": "https://www.youtube.com/watch?v=IhFYVnQh0fY"
+  },
+  {
+    "id": 152,
+    "title": "ทำโจทย์ Leetcode: Distribute Candies",
+    "url": "https://www.youtube.com/watch?v=N2g1xqNj24g"
+  },
+  {
+    "id": 153,
+    "title": "ทำโจทย์ Leetcode: Check If All 1's Are at Least Length K Places Away",
+    "url": "https://www.youtube.com/watch?v=AoiCQ821cXs"
+  },
+  {
+    "id": 154,
+    "title": "ทำโจทย์ Leetcode: Merge k Sorted Lists",
+    "url": "https://www.youtube.com/watch?v=IDdyB10-QCE"
+  },
+  {
+    "id": 155,
+    "title": "ทำโจทย์ Leetcode: Find the Most Competitive Subsequence",
+    "url": "https://www.youtube.com/watch?v=fIPczZGQz5Y"
+  },
+  {
+    "id": 156,
+    "title": "ทำโจทย์ Leetcode: Valid Parentheses",
+    "url": "https://www.youtube.com/watch?v=qNii62VOX5o"
+  },
+  {
+    "id": 157,
+    "title": "ทำโจทย์ Leetcode: Max Number of K-Sum Pairs",
+    "url": "https://www.youtube.com/watch?v=SEouEsCWZ-Y"
+  },
+  {
+    "id": 158,
+    "title": "ทำโจทย์ Leetcode: Count Sorted Vowel Strings",
+    "url": "https://www.youtube.com/watch?v=atakZBX5xQk"
+  },
+  {
+    "id": 159,
+    "title": "ทำโจทย์ Leetcode: Kth Largest Element in an Array",
+    "url": "https://www.youtube.com/watch?v=q9D5lvnrCmw"
+  },
+  {
+    "id": 160,
+    "title": "ทำโจทย์ Leetcode: Nested List Weight Sum II",
+    "url": "https://www.youtube.com/watch?v=gLSSbPlv2RI"
+  },
+  {
+    "id": 161,
+    "title": "ทำโจทย์ Leetcode: Nested List Weight Sum",
+    "url": "https://www.youtube.com/watch?v=R3camZm_zKg"
+  },
+  {
+    "id": 162,
+    "title": "ทำโจทย์ Leetcode: Get Maximum in Generated Array",
+    "url": "https://www.youtube.com/watch?v=YjrQ4lDb_tc"
+  },
+  {
+    "id": 163,
+    "title": "ทำโจทย์ Leetcode: Add Two Numbers II",
+    "url": "https://www.youtube.com/watch?v=dMt8lwe1HC0"
+  },
+  {
+    "id": 164,
+    "title": "ทำโจทย์ Leetcode: Boats to Save People",
+    "url": "https://www.youtube.com/watch?v=Bh93102ZMqI"
+  },
+  {
+    "id": 165,
+    "title": "ทำโจทย์ Leetcode: Add Two Numbers",
+    "url": "https://www.youtube.com/watch?v=8SMprlKinWM"
+  },
+  {
+    "id": 166,
+    "title": "ทำโจทย์ Leetcode: Find Root of N-Ary Tree",
+    "url": "https://www.youtube.com/watch?v=lXbKAuaTFXs"
+  },
+  {
+    "id": 167,
+    "title": "ทำโจทย์ Leetcode: Check If Two String Arrays are Equivalent",
+    "url": "https://www.youtube.com/watch?v=XUAoW54T4X8"
+  },
+  {
+    "id": 168,
+    "title": "ทำโจทย์ Leetcode: Longest Substring Without Repeating Characters",
+    "url": "https://www.youtube.com/watch?v=_h2S6PrdF7M"
+  },
+  {
+    "id": 169,
+    "title": "ทำโจทย์ Leetcode: Kth Missing Positive Number",
+    "url": "https://www.youtube.com/watch?v=y6A4VdyTlQ0"
+  },
+  {
+    "id": 170,
+    "title": "ทำโจทย์ Leetcode: Remove Duplicates from Sorted List II",
+    "url": "https://www.youtube.com/watch?v=_wHnPS_tGkM"
+  },
+  {
+    "id": 171,
+    "title": "ทำโจทย์ Leetcode: Merge Two Sorted Lists",
+    "url": "https://www.youtube.com/watch?v=2KZx-_4LgMw"
+  },
+  {
+    "id": 172,
+    "title": "ทำโจทย์ Leetcode: Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+    "url": "https://www.youtube.com/watch?v=-jDeyC_D_6s"
+  },
+  {
+    "id": 173,
+    "title": "ทำโจทย์ Leetcode: Check Array Formation Through Concatenation",
+    "url": "https://www.youtube.com/watch?v=-N1NBzad5NU"
+  },
+  {
+    "id": 174,
+    "title": "ทำโจทย์ Leetcode: Palindrome Permutation",
+    "url": "https://www.youtube.com/watch?v=Lg2MwjDARbw"
+  },
+  {
+    "id": 175,
+    "title": "ทำโจทย์ Leetcode: Find Nearest Right Node in Binary Tree",
+    "url": "https://www.youtube.com/watch?v=BxlW3e1Q88g"
+  },
+  {
+    "id": 176,
+    "title": "ทำโจทย์ Leetcode: Increasing Triplet Subsequence",
+    "url": "https://www.youtube.com/watch?v=rhjt0LHm5uE"
+  },
+  {
+    "id": 177,
+    "title": "ทำโจทย์ Leetcode: Balanced Binary Tree",
+    "url": "https://www.youtube.com/watch?v=klOVoJow-2k"
+  },
+  {
+    "id": 178,
+    "title": "ทำโจทย์ Leetcode: Validate Binary Search Tree",
+    "url": "https://www.youtube.com/watch?v=aTjfhoDWD4Q"
+  },
+  {
+    "id": 179,
+    "title": "ทำโจทย์ Leetcode: Squares of a Sorted Array",
+    "url": "https://www.youtube.com/watch?v=i5ptuWCzgOw"
+  },
+  {
+    "id": 180,
+    "title": "ทำโจทย์ Leetcode: Plus One Linked List",
+    "url": "https://www.youtube.com/watch?v=ujcQ3LZiKlc"
+  },
+  {
+    "id": 181,
+    "title": "ทำโจทย์ Leetcode: Valid Palindrome",
+    "url": "https://www.youtube.com/watch?v=mbJGtldI02A"
+  },
+  {
+    "id": 182,
+    "title": "ทำโจทย์ Leetcode: Valid Mountain Array",
+    "url": "https://www.youtube.com/watch?v=lnDB8xGd0fo"
+  },
+  {
+    "id": 183,
+    "title": "ทำโจทย์ Leetcode: Binary Search Tree Iterator",
+    "url": "https://www.youtube.com/watch?v=HbctikdLly8"
+  },
+  {
+    "id": 184,
+    "title": "ทำโจทย์ Leetcode: Pairs of Songs With Total Durations Divisible by 60",
+    "url": "https://www.youtube.com/watch?v=JGe_XJ0qyQ8"
+  },
+  {
+    "id": 185,
+    "title": "ทำโจทย์ Leetcode: Missing Ranges",
+    "url": "https://www.youtube.com/watch?v=R3h8OWzz9QI"
+  },
+  {
+    "id": 186,
+    "title": "ทำโจทย์ Leetcode:  Spiral Matrix II",
+    "url": "https://www.youtube.com/watch?v=4sHkocO2x4k"
+  },
+  {
+    "id": 187,
+    "title": "ทำโจทย์ Leetcode: Populating Next Right Pointers in Each Node II",
+    "url": "https://www.youtube.com/watch?v=pMV8sJ6cLks"
+  },
+  {
+    "id": 188,
+    "title": "ทำโจทย์ Leetcode: Can Place Flowers",
+    "url": "https://www.youtube.com/watch?v=TVKE9ZgTUqY"
+  },
+  {
+    "id": 189,
+    "title": "ทำโจทย์ Leetcode: The kth Factor of n",
+    "url": "https://www.youtube.com/watch?v=nCZzcY9EdM0"
+  },
+  {
+    "id": 190,
+    "title": "ทำโจทย์ Leetcode: Increasing Order Search Tree",
+    "url": "https://www.youtube.com/watch?v=U4E3T0i7CDI"
+  },
+  {
+    "id": 191,
+    "title": "ทำโจทย์ Leetcode: Linked List Random Node",
+    "url": "https://www.youtube.com/watch?v=IqIaRd3_E4A"
+  },
+  {
+    "id": 192,
+    "title": "ทำโจทย์ Leetcode: Element Appearing More Than 25% In Sorted Array",
+    "url": "https://www.youtube.com/watch?v=oFFhPM69nXI"
+  },
+  {
+    "id": 193,
+    "title": "ทำโจทย์ Leetcode: Unique Morse Code Words",
+    "url": "https://www.youtube.com/watch?v=FxUv_1LzFXI"
+  },
+  {
+    "id": 194,
+    "title": "ทำโจทย์ Leetcode: Smallest Integer Divisible by K",
+    "url": "https://www.youtube.com/watch?v=Jbr4fa8Wy8M"
+  },
+  {
+    "id": 195,
+    "title": "ทำโจทย์ Leetcode: Decode String",
+    "url": "https://www.youtube.com/watch?v=JjDSrqokpCY"
+  },
+  {
+    "id": 196,
+    "title": "ทำโจทย์ Leetcode: Merge Intervals",
+    "url": "https://www.youtube.com/watch?v=NS9qszpykNg"
+  },
+  {
+    "id": 197,
+    "title": "ทำโจทย์ Leetcode: Remove Interval",
+    "url": "https://www.youtube.com/watch?v=9s8vuW1s4Ko"
+  },
+  {
+    "id": 198,
+    "title": "ทำโจทย์ Leetcode: Range Sum of BST",
+    "url": "https://www.youtube.com/watch?v=-BLVA_FhYRU"
+  },
+  {
+    "id": 199,
+    "title": "ทำโจทย์ Leetcode: Populating Next Right Pointers in Each Node",
+    "url": "https://www.youtube.com/watch?v=T_5o7eMgsGM"
+  },
+  {
+    "id": 200,
+    "title": "ทำโจทย์ Leetcode: Consecutive Characters",
+    "url": "https://www.youtube.com/watch?v=Av0c3JRbNUo"
+  },
+  {
+    "id": 201,
+    "title": "ทำโจทย์ Leetcode: Insertion Sort List",
+    "url": "https://www.youtube.com/watch?v=cHgnIg8zqp8"
+  },
+  {
+    "id": 202,
+    "title": "ทำโจทย์ Leetcode: Convert Binary Number in a Linked List to Integer",
+    "url": "https://www.youtube.com/watch?v=LjKcgC4gD3c"
+  },
+  {
+    "id": 203,
+    "title": "ทำโจทย์ Leetcode: Meeting Rooms",
+    "url": "https://www.youtube.com/watch?v=DQXFSxghlhU"
+  },
+  {
+    "id": 204,
+    "title": "ทำโจทย์ Leetcode: Summary Ranges",
+    "url": "https://www.youtube.com/watch?v=i5n35qZsegg"
+  },
+  {
+    "id": 205,
+    "title": "ทำโจทย์ Leetcode: Linked List Cycle II",
+    "url": "https://www.youtube.com/watch?v=1L7rewUodSM"
+  },
+  {
+    "id": 206,
+    "title": "ทำโจทย์ Leetcode: Bag of Tokens",
+    "url": "https://www.youtube.com/watch?v=lwjKSsZ2HGY"
+  },
+  {
+    "id": 207,
+    "title": "ทำโจทย์ Leetcode: 132 Pattern",
+    "url": "https://www.youtube.com/watch?v=Tu1noz91KLE"
+  },
+  {
+    "id": 208,
+    "title": "ทำโจทย์ Leetcode: Search in a Sorted Array of Unknown Size",
+    "url": "https://www.youtube.com/watch?v=FSoor4J_uGo"
+  },
+  {
+    "id": 209,
+    "title": "ทำโจทย์ Leetcode: Minimum Depth of Binary Tree",
+    "url": "https://www.youtube.com/watch?v=ecAhOAeepqA"
+  },
+  {
+    "id": 210,
+    "title": "ทำโจทย์ Leetcode: Maximum Depth of Binary Tree",
+    "url": "https://www.youtube.com/watch?v=Ba8Lx98Ijy0"
+  },
+  {
+    "id": 211,
+    "title": "ทำโจทย์ Leetcode: Asteroid Collision",
+    "url": "https://www.youtube.com/watch?v=ZymCBVg3vPA"
+  },
+  {
+    "id": 212,
+    "title": "ทำโจทย์ Leetcode: Minimum Domino Rotations For Equal Row",
+    "url": "https://www.youtube.com/watch?v=w_o4Y6Y5MCY"
+  },
+  {
+    "id": 213,
+    "title": "ทำโจทย์ Leetcode: Repeated DNA Sequences",
+    "url": "https://www.youtube.com/watch?v=26z8JXAmeQg"
+  },
+  {
+    "id": 214,
+    "title": "ทำโจทย์ Leetcode: Search a 2D Matrix",
+    "url": "https://www.youtube.com/watch?v=y_D-b_D6pv4"
+  },
+  {
+    "id": 215,
+    "title": "ทำโจทย์ Leetcode: Insert into a Binary Search Tree",
+    "url": "https://www.youtube.com/watch?v=pOl8pXZUYtE"
+  },
+  {
+    "id": 216,
+    "title": "ทำโจทย์ Leetcode: Clone Binary Tree With Random Pointer",
+    "url": "https://www.youtube.com/watch?v=NrVaXvRFa6Y"
+  },
+  {
+    "id": 217,
+    "title": "ทำโจทย์ Leetcode: Copy List with Random Pointer",
+    "url": "https://www.youtube.com/watch?v=aPRqgCPUyPo"
+  },
+  {
+    "id": 218,
+    "title": "ทำโจทย์ Leetcode: Clone Graph",
+    "url": "https://www.youtube.com/watch?v=hbBe9BReMFo"
+  },
+  {
+    "id": 219,
+    "title": "ทำโจทย์ Leetcode: Inorder Successor in BST II",
+    "url": "https://www.youtube.com/watch?v=c0ElyC7VSvQ"
+  },
+  {
+    "id": 220,
+    "title": "ทำโจทย์ Leetcode: License Key Formatting",
+    "url": "https://www.youtube.com/watch?v=ajNDjc1uUQQ"
+  },
+  {
+    "id": 221,
+    "title": "Java Programming - ลองเล่นกับชุดข้อความในภาษา Java",
+    "url": "https://www.youtube.com/watch?v=qCTE3cRaSck"
+  },
+  {
+    "id": 222,
+    "title": "Java Programming - ลองเปิดมุมมองใหม่ๆของ Primitive type ด้วย Wrapper class",
+    "url": "https://www.youtube.com/watch?v=Fiy1RZaBj1Q"
+  },
+  {
+    "id": 223,
+    "title": "Java Programming - ทำหลายอย่างพร้อมกันด้วย Multithread",
+    "url": "https://www.youtube.com/watch?v=0oZInX71Ou8"
+  },
+  {
+    "id": 224,
+    "title": "Java Programming - ดักจับข้อผิดพลาดของโปรแกรมด้วย Exception Handling",
+    "url": "https://www.youtube.com/watch?v=3TQQYkxwdLM"
+  },
+  {
+    "id": 225,
+    "title": "Java Programming - เพิ่มส่วนการทำงานด้วย Interface",
+    "url": "https://www.youtube.com/watch?v=LCLR0oP0fHw"
+  },
+  {
+    "id": 226,
+    "title": "Java Programming - ลองใช้ Abstract class กำหนดนามธรรมของวัตถุ",
+    "url": "https://www.youtube.com/watch?v=VXMYHpVG8q8"
+  },
+  {
+    "id": 227,
+    "title": "Java Programming - ทำให้วัตถุเปลี่ยนรูปร่าง ด้วยการ Polymorphism",
+    "url": "https://www.youtube.com/watch?v=GPVQmoZdOvo"
+  },
+  {
+    "id": 228,
+    "title": "Java Programming - หลักการ Shadowing และ Overriding",
+    "url": "https://www.youtube.com/watch?v=_A96aYV2wBg"
+  },
+  {
+    "id": 229,
+    "title": "Java Programming - ใช้งาน Parent class ด้วย super และ Constructor Chaining",
+    "url": "https://www.youtube.com/watch?v=4we6vK8a2q0"
+  },
+  {
+    "id": 230,
+    "title": "Java Programming - สืบทอดการทำงานด้วยหลักการ Inheritance",
+    "url": "https://www.youtube.com/watch?v=e-HAsUiY2zw"
+  },
+  {
+    "id": 231,
+    "title": "Java Programming - ทำความเข้าใจกับการจองพื้นที่ใน Java และการใช้ static keyword",
+    "url": "https://www.youtube.com/watch?v=4bd01yTPKUU"
+  },
+  {
+    "id": 232,
+    "title": "Java Programming - ใช้ค่าคงที่ด้วย final keyword",
+    "url": "https://www.youtube.com/watch?v=7RKI5bKgONU"
+  },
+  {
+    "id": 233,
+    "title": "Java Programming - ตัวอย่าง Singleton Pattern",
+    "url": "https://www.youtube.com/watch?v=OzQu3bHDLPQ"
+  },
+  {
+    "id": 234,
+    "title": "Java Programming - ลองประยุกต์ใช้งาน Class กับ Array กันเถอะ",
+    "url": "https://www.youtube.com/watch?v=Xa_ZhD4PLRQ"
+  },
+  {
+    "id": 235,
+    "title": "Java Programming - ปกป้องข้อมูลด้วยกระบวนการ Encapsulation",
+    "url": "https://www.youtube.com/watch?v=3DlCxcGaits"
+  },
+  {
+    "id": 236,
+    "title": "Java Programming - สร้างวัตถุมาใช้งานด้วย Constructor",
+    "url": "https://www.youtube.com/watch?v=YlTFvud7hEs"
+  },
+  {
+    "id": 237,
+    "title": "Java Programming - อ้างอิงถึงตัวเองด้วย this",
+    "url": "https://www.youtube.com/watch?v=Vm_qsNKXaeU"
+  },
+  {
+    "id": 238,
+    "title": "Java Programming - ปรับให้โปรแกรมเหมือนสิ่งรอบตัวกับ OOP",
+    "url": "https://www.youtube.com/watch?v=tVZc6JSk7Lg"
+  },
+  {
+    "id": 239,
+    "title": "Java Programming - นำข้อมูลชนิดเดียวกับมารวมกันด้วย Array",
+    "url": "https://www.youtube.com/watch?v=cQq0_NdUEqg"
+  },
+  {
+    "id": 240,
+    "title": "Java Programming - ลองทำโปรแกรมเล็กๆคำนวณจำนวนธนบัตร",
+    "url": "https://www.youtube.com/watch?v=0DgQ1bmLNxo"
+  },
+  {
+    "id": 241,
+    "title": "Java Programming - การควบคุมการทำงาน จะไปทางไหนดี",
+    "url": "https://www.youtube.com/watch?v=iFu7pux4yvE"
+  },
+  {
+    "id": 242,
+    "title": "Java Programming - ขัดจังหวะการวนซ้ำด้วยการ Branching",
+    "url": "https://www.youtube.com/watch?v=UqfbmOP1y_g"
+  },
+  {
+    "id": 243,
+    "title": "Java Programming - เขียนโค้ดซ้ำๆ โดยไม่เหนื่อย ด้วยการวนซ้ำ",
+    "url": "https://www.youtube.com/watch?v=ikNzKTlxwXI"
+  },
+  {
+    "id": 244,
+    "title": "Java Programming - รู้จักกับตัวดำเนินการ (Operator)ต่างๆ",
+    "url": "https://www.youtube.com/watch?v=Z9-50tLJVwQ"
+  },
+  {
+    "id": 245,
+    "title": "Java Programming - ทักทายชาวโลก Hello World",
+    "url": "https://www.youtube.com/watch?v=3KAcggFEgL4"
+  },
+  {
+    "id": 246,
+    "title": "Java Programming - ทำความรู้จัก Java",
+    "url": "https://www.youtube.com/watch?v=BIsHd3yvuUU"
+  },
+  {
+    "id": 247,
+    "title": "Java Programming - ลองรับ User Input ด้วย Scanner",
+    "url": "https://www.youtube.com/watch?v=BxMwDmFvsrw"
+  },
+  {
+    "id": 248,
+    "title": "Java Programming - รู้จักกับชนิดตัวแปร",
+    "url": "https://www.youtube.com/watch?v=cnZhEny-ZWs"
+  }
+]
