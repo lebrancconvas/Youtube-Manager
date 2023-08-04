@@ -1,4 +1,4 @@
-import { describe, test, expect} from '@jest/globals';
+import { test, expect } from '@jest/globals';
 import { getTotalVideoOnChannel } from "../utils";
 
 test('MorningNewsTV3 -> 120000', async() => {
@@ -15,5 +15,4 @@ test('Ardan Labs -> 328', async() => {
   const totalVideo = await getTotalVideoOnChannel('ardanlabs6339');
   expect(totalVideo).toBe(328);
 }, 10000);
-
 
