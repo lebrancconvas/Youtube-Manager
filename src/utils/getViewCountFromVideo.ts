@@ -1,5 +1,5 @@
 import { chromium } from "playwright";
-import { onClick } from "./onClick";
+import { onClick } from "./actions/onClick";
 import { Config } from "../config";
 
 export async function getViewCountFromVideo(videoID: string): Promise<number> {

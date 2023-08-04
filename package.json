@@ -1,7 +1,7 @@
 {
   "name": "ytmanager",
   "description": "Utility Tool for managing Youtube.",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",

@@ -1,6 +1,6 @@
 import { chromium } from "playwright";
 import { Config } from "../config";
-import { onClick } from "./onClick";
+import { onClick } from "./actions/onClick";
 
 export const getUploadDateFromVideo = async(videoID: string): Promise<Date | null> => {
   const params = `watch?v=${videoID}`;

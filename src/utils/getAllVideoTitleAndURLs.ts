@@ -1,6 +1,6 @@
 import { chromium } from "playwright";
 import { Config } from "../config";
-import { fullScroll } from "./fullScroll";
+import { fullScroll } from "../utils";
 import type { IVideoInformation } from "../@types";
 
 export async function getAllVideoTitleAndURLs(channelID: string): Promise<IVideoInformation[]> {
@@ -30,7 +30,7 @@ export async function getAllVideoTitleAndURLs(channelID: string): Promise<IVideo
   let titles = await page.$$eval(videoTitleSelector, (els) => els.map((el) => el.textContent));
   let urls = await page.$$eval(videoURLSelector, (els) => els.map((el) => el.getAttribute('href')));
 
-  for(let i = 0; i < urls.length; i++) {
+  for (let i = 0; i < urls.length; i++) {
     const data: IVideoInformation = {
       id: i + 1,
       title: titles[i] || '',

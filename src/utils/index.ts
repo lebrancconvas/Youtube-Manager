@@ -4,5 +4,5 @@ export * from './getViewCountFromVideo';
 export * from './getDescriptionFromVideo';
 export * from './getUploadDateFromVideo';
 export * from './getVideoIDFromURL';
-export * from './fullScroll';
-export * from './onClick';
+export * from './actions/fullScroll';
+export * from './actions/onClick';
