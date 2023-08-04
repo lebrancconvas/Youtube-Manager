@@ -4,7 +4,7 @@ import { Config } from "../config";
 
 export async function getDescriptionFromVideo(videoID: string): Promise<string> {
   const url = `https://www.youtube.com/watch?v=${videoID}`;
-  const descriptionSelector = '';
+  const descriptionSelector = '#description-inline-expander > yt-attributed-string > span > span';
   const showmoreSelector = '#expand';
   let description = '';
 
@@ -23,13 +23,13 @@ export async function getDescriptionFromVideo(videoID: string): Promise<string> 
 
   await onClick(page, showmoreSelector);
 
-  description = await page.$eval(descriptionSelector, (el) => el.textContent) as string;
+  const descriptionContent = await page.$eval(descriptionSelector, (el) => el.textContent);
 
   await browser.close();
 
-  if(description) {
-    return description;
+  if(typeof descriptionContent === 'string') {
+    description = descriptionContent;
   }
 
-  return '';
+  return description;
 }
